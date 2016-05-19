@@ -4,7 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: samplePyApp
-  host: samplePyApp
+  host: samplepyapp
   disk_quota: 1024M
-  no-route: true
-  command: python test.py 
